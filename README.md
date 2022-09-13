@@ -1,2 +1,2 @@
-# javawebapp-javaops
-My new java project
+# javawebapp
+Java Web Application - Java, Maven &amp; Web Framework(HTML, CSS &amp; JS)- SpringBoot 
